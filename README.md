@@ -19,17 +19,17 @@
 
 [The Ranking Project](https://github.com/Davidlazarog/The-Ranking-Project) Creating a new API from the Github API. Using Docker , Heroku and Mongodb Atlas for the first time.
 
-[Script to Download GoogleSheets by Google API] (https://github.com/Davidlazarog/APIDrive#crea-tu-token)
+[Script to Download GoogleSheets by Google API](https://github.com/Davidlazarog/APIDrive#crea-tu-token)
 
 ### Machine Learning
 
 [Diamond Kaggle Competition]() Machine Learning competition against other Ironhackers. 
 
-### Ironhack Data Analytics Bootcamp
+### Data Courses & Bootcamp
 
-[Ironhack Labs](https://github.com/Davidlazarog/datamad0820)
+[Exercises](https://github.com/Davidlazarog/prework-datamad-no-solutions) 
 
-[Ironhack Prework](https://github.com/Davidlazarog/prework-datamad-no-solutions) 
+[Advanced Execised](https://github.com/Davidlazarog/datamad0820)
 
 ### Working on it
 
